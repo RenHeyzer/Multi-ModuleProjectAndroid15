@@ -15,7 +15,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "Multi-ModuleProjectAndroid15"
 include(":app")
-include(":domain")
-include(":presentation")
-include(":data")
-include(":common")
